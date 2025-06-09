@@ -11,4 +11,4 @@ FYI, this is self-assessed — I haven’t taken any official tests yet, LOL.
 I also plan to learn *general* C# and C++, but not right now.
 ## About Me 🙂
 I was born in Krasnodar, Russia.  
-I'm mainly into tech, but I also enjoy cooking and wakeboarding.
+I'm mainly into tech and 3D modelling, but I also enjoy cooking and wakeboarding.
